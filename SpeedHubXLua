@@ -84,7 +84,7 @@ local statusMessages = {
 -- Simulate loading
 local function simulateLoading()
 	local steps = 100
-	local duration = 120 -- seconds (3 min 20 sec)
+	local duration = 180 -- seconds (3 min 20 sec)
 	local delayPerStep = duration / steps
 	local messageIndex = 1
 
